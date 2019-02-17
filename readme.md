@@ -7,7 +7,7 @@ This application demonstrates a simple full stack application with a front end i
 The user may enter any burger name to add it to the menu. This also adds the new burger entry into the MySQL database. The initial burger entry is added as available on the menu and placed on the left side of the screen. The user may then eat any burger by clicking on it, which moves it into the adjacent column and updates its status accordingly in the database.
 
 ## Demo
-The demo of the burger eating application can be found here.[I'm an inline-style link](https://www.google.com)
+The demo of the burger eating application can be found[here]( https://gentle-retreat-22831.herokuapp.com/)
 
 ## Installation
 To run the application locally, first clone this repository with the following command.
